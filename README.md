@@ -3,7 +3,7 @@ Dream Travel Destinations
 A React application showcasing my travel bucket list, built with Vite.
 
 ## Links
-- **GitHub Repository:** https://github.com/mhdsahil1/dream-destinations.git 
+- **GitHub Repository:** https://github.com/hamzaraseel7/travel.git
 - **Live Website:** [your-deployment-link]
 
 ## Run Locally
